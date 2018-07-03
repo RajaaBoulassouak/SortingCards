@@ -42,5 +42,5 @@ class GuessTest < Minitest::Test
     result = Guess.new("2 of Clubs", card)
     assert_equal "Incorrect.", result.feedback
   end
-
+  
 end
