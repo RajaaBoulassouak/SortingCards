@@ -12,4 +12,4 @@ attr_reader :cards
     @cards.count
   end
 
-end
+end 

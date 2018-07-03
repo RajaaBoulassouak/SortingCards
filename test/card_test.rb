@@ -14,5 +14,4 @@ class CardTest < Minitest::Test
     assert_equal "10", result.value
     assert_equal "Hearts", result.suit
   end
-
 end

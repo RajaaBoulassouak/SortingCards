@@ -1,4 +1,4 @@
-require "./lib/deck"
+require "./lib/deck"  
 require "./lib/card"
 require 'minitest/autorun'
 require 'minitest/pride'
